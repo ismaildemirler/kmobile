@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MOBIL UYGULAMA</string>
+    <string name="profile">Profil</string>
+    <string name="firms">Firmalar</string>
+    <string name="logout">Güvenli Çıkış</string>
+
+    <string name="fragment_profile">Profil</string>
+    <string name="fragment_firms">Firmalar</string>
+</resources>
